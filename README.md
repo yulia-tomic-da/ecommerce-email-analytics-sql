@@ -61,4 +61,4 @@ The finalized dataset was connected to **Looker Studio** to build an executive r
 --
 
 ## 🔗 Live Dashboard & Links
-* 📊 **Looker Studio Interactive Dashboard:**  https://datastudio.google.com/s/vxMEq6YhZjw
+* 📊 **Looker Studio Interactive Dashboard:** (https://datastudio.google.com/reporting/40e1bc8c-f6d8-439e-8dbd-cd58259b2f79)
